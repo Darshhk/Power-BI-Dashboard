@@ -1,1 +1,2 @@
-# Power-BI-Dashboard
+# Amazon Dashboard 
+Download the file to see the details
